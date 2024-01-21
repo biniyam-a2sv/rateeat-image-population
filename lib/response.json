@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "totalItems": 106,
+    "data": [
+        {
+            "id": "f8ef19a9-2dee-4ae6-8934-6dff4acd16f5",
+            "name": "Olive And Bread",
+            "imageCoverage": 40,
+            "itemsWithImageCount": 8,
+            "itemsWithoutImageCount": 12,
+            "itemsWithImage": [
+                {
+                    "id": "3082c322-3674-4cea-9e7c-301b49725b55",
+                    "name": "Italian Salad",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910362302.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "7c28e5c8-f7b0-4859-b9b1-e3908202808b",
+                    "name": "Caesar Salad",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910364638.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "73ab78e3-fe6c-4c8a-8e06-211ace0369b6",
+                    "name": "Vegetable",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910367151.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "39d9edf2-985a-4782-b753-f403f8e06348",
+                    "name": "Bolognese",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910369644.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "03d34bdc-5082-4010-bcfb-00c1b15cc0b1",
+                    "name": "Pesto",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910372316.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "ce4de853-40ea-4396-86c1-97e7bc5465c5",
+                    "name": "Pesto With Chicken",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910376805.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "68939988-6d6a-4de8-a7f1-20d3e66f413e",
+                    "name": "Tuna",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910405233.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": "f9614f15-e00e-4608-8837-b48ec0ddd3a2",
+                    "name": "Lasagna",
+                    "imageUrl": [
+                        {
+                            "url": "https://storage.googleapis.com/rateeat_bucket/RateEat/ItemImages/1698910412624.jpg"
+                        }
+                    ]
+                }
+            ],
+            "itemsWithoutImage": [
+                {
+                    "id": "497bb036-b1e4-41f0-adff-5aa131777070",
+                    "name": "Chicken Caesar Salad"
+                },
+                {
+                    "id": "f33f882b-d779-486c-808e-a6453be6fdc5",
+                    "name": "Cacio E Pepe"
+                },
+                {
+                    "id": "99a1b1de-8008-4adc-9e18-052319fd8994",
+                    "name": "Rauschetta Alla Romana"
+                },
+                {
+                    "id": "7b2537c1-75f0-4a07-9b58-dd720883129d",
+                    "name": "Classic Tomato Sauce"
+                },
+                {
+                    "id": "4e27a7bb-917a-4ae6-88dc-c14ca6d03fd0",
+                    "name": "Alfredo"
+                },
+                {
+                    "id": "bd26763b-3709-4d65-9987-3bd09556642e",
+                    "name": "Olive And Bread Starter"
+                },
+                {
+                    "id": "cf5800b1-bbcc-4348-b897-e592e5992527",
+                    "name": "Tomato Soup"
+                },
+                {
+                    "id": "c0dc4b4a-a12f-41c4-bd2c-1c509eb025d2",
+                    "name": "Tomato Cream Soup"
+                },
+                {
+                    "id": "47257aac-77da-4c6e-8ef3-beb8385cde0c",
+                    "name": "Beef Bacon Tomato Soup"
+                },
+                {
+                    "id": "6ee3dea5-d7b9-468d-9e88-ce26f28e5578",
+                    "name": "Fasting Tuna"
+                },
+                {
+                    "id": "c7e2423d-8708-4047-9db1-c460ff66e973",
+                    "name": "Chicken Cream Soup"
+                },
+                {
+                    "id": "00cb4e84-62a7-464b-b472-67c476c080ae",
+                    "name": "Arrabbiata"
+                }
+            ],
+            "totalItems": 20,
+            "averageImagesPerItem": 1
+        }
+    ]
+}
